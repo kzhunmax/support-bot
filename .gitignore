@@ -1,0 +1,6 @@
+requirements.txt
+input
+.venv/
+.idea/
+.vscode/
+__pycache__/
